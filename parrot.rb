@@ -3,7 +3,7 @@
 
 
 def parrot
-  name = "squawk"
+  name = "Parrot"
   puts name.reverse
-  return name
+  return "Squawk"
 end
