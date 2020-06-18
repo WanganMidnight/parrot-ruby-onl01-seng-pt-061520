@@ -2,8 +2,9 @@
 # returns the phrase
 
 
-def parrot
+def return_name
   name = "Parrot"
   puts name.reverse
   return "Squawk"
 end
+
